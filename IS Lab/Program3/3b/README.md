@@ -2,4 +2,4 @@
 Write a Java program to perform encryption and decryption using Substitution Cipher
 
 ## Output
-![output](Sub.jpeg)
+![output](Substitution.png)
